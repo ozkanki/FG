@@ -1,0 +1,14 @@
+{
+  "name": "fluency-gym",
+  "version": "1.0.0",
+  "description": "A three-level speaking gym for language learners who freeze under pressure.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
